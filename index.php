@@ -4,7 +4,7 @@
   <title>Example Sheet</title>
   <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
  </head>
- <body onload="loading()">
+ <body>
   <div class = "standardPage">
    <div class = "frame">
     <div class = "frameLogo">
