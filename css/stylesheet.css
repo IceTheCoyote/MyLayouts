@@ -1,0 +1,35 @@
+.standardPage {
+	background-color: #ffffff;
+	font: -webkit-control;
+	color: black;
+	background-color: white;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+}
+.frame {
+	width: 100%;
+	height: 50px;
+	background-color: #6d6d6d;
+}
+.frameLogo {
+	float: left;
+}
+.statusLogin {
+	text-align: right;
+	vertical-align: top;
+}
+.statusNews {
+	text-align: right;
+	vertical-align: bottom;
+}
+.clientPage {
+	text-align: left;
+	vertical-align: top;
+	width: 100%;
+	background-color: #b5b5b5;
+}
+body {
+	background-color: #b5b5b5;
+}
